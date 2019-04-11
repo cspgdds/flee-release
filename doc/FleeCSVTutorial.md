@@ -23,7 +23,7 @@ python3 run_csv_vanilla.py examples/car_input_csv source_data/car2014 820 > outc
 ```
 The output will be written to outcar/out.csv. You can visualize the output data using:
 
-```python3 plot-flee-output.py outcar```
+```python3 plot-flee-output.py outcar outcar/out```
 
 The output .png files will then appear in the outcar directory.
 
